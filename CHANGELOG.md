@@ -1,3 +1,21 @@
+# [1.8.0](https://github.com/algolia/search-insights-gtm/compare/v1.7.3...v1.8.0) (2026-03-16)
+
+
+### Features
+
+* call named search-insights methods and add inferQueryID support for conversions ([#64](https://github.com/algolia/search-insights-gtm/issues/64)) ([d894368](https://github.com/algolia/search-insights-gtm/commit/d894368fd7d95ec9b90092240fd55f3317d09ab2))
+
+
+
+## [1.7.3](https://github.com/algolia/search-insights-gtm/compare/v1.7.2...v1.7.3) (2026-03-12)
+
+
+### Bug Fixes
+
+* convert cookieDuration to integer via makeInteger ([#65](https://github.com/algolia/search-insights-gtm/issues/65)) ([4d15c6e](https://github.com/algolia/search-insights-gtm/commit/4d15c6ece42d360773f58b54d223a1bb0d325784)), closes [#57](https://github.com/algolia/search-insights-gtm/issues/57)
+
+
+
 ## [1.7.2](https://github.com/algolia/search-insights-gtm/compare/v1.7.1...v1.7.2) (2025-07-15)
 
 
